@@ -1,0 +1,21 @@
+body {
+    background-image: url(../images/space_tile.jpg);
+    background-repeat: repeat;
+}
+
+.header {
+    background-color: #585858;
+    color: white;
+    text-align: center;
+    padding: 25px;
+    margin: 25px 0px 25px 0px;
+    border-radius: 9px;
+}
+
+.table-container-sm {
+    background-color: #585858;
+    color: white;
+    border-radius: 9px;
+    padding: 25px;
+    margin: 25px 0px 25px 0px;
+}
