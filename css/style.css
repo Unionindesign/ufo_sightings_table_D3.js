@@ -3,8 +3,14 @@ body {
     background-repeat: repeat;
 }
 
+.boxshadow {
+    -webkit-box-shadow: 5px 5px 15px 5px #000000;
+    box-shadow: 5px 5px 15px 5px #000000;
+}
+
 .header {
     background-color: #585858;
+    background-image: url(https://www.wvxu.org/sites/wvxu/files/styles/x_large/public/201910/ufo-3014638_1920.jpg);
     color: white;
     text-align: center;
     padding: 25px;
@@ -13,9 +19,11 @@ body {
 }
 
 .table-container-sm {
-    background-color: #585858;
+    background-color: #2e2e2e;
     color: white;
     border-radius: 9px;
     padding: 25px;
     margin: 25px 0px 25px 0px;
+    height: 500px;
+    overflow-y: scroll;
 }

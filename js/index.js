@@ -1,4 +1,4 @@
-console.log("Data: ", data)
+// console.log("Data: ", data)
 var tbody = d3.select("tbody");
 
 data.forEach((ufo) => {
