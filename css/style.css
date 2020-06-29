@@ -18,6 +18,11 @@ body {
     border-radius: 9px;
 }
 
+.main-heading {
+    font-family: 'Notable', sans-serif;
+    font-size: 42px;
+}
+
 .table-container-sm {
     background-color: #2e2e2e;
     color: white;
